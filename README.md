@@ -1,112 +1,39 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+# Dingwei Bai
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+### Data Visualization Portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+[About Me](#about-me) | [What I Hope to Learn](#what-i-hope-to-learn) | [Portfolio](#portfolio)
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+## About Me
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, I’m Dingwei Bai. I’m a student interested in how data can help us understand the world and communicate ideas more clearly. Through this course, I hope to explore the connection between data, design, and storytelling.
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+This website will document my learning throughout the semester. I’ll use it to share assignments, workshop exercises, and my final project, along with reflections on the choices I make and what I learn along the way.
 
-1. List item #1
-2. List item #2
-3. List item #3
+## What I Hope to Learn
 
-or...
+I hope to learn how to turn complex information into visualizations that are clear, engaging, and useful. I want to become more confident in choosing appropriate chart types, using color and layout effectively, and building a story around data.
 
-- List item #1
-- List item #2
-- List item #3
+I’m also interested in learning how to evaluate visualizations critically, recognize potentially misleading design choices, and improve my work through feedback and revision. After graduation, I hope to apply these skills in work that involves analyzing information, solving problems, and communicating findings to different audiences.
 
-# Portfolio
+## Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+### Visualization Critiques
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Reviews of data visualizations, focusing on their clarity, design, and effectiveness.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+[Critique by Design](critique-by-design)
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+### Workshop Exercises
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+Hands-on activities exploring visualization tools and techniques.
 
-### Changing text
+[Data Visualization Examples](dataviz-examples)
 
-You can change text, like this: 
+### Final Project
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+A record of my final project, from the initial question and data exploration to the finished visualization.
 
-### Creating tables
+[Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three)
 
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+*More work will be added throughout the semester.*
