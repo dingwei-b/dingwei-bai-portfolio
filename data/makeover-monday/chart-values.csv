@@ -1,0 +1,10 @@
+Panel,Category,Series,Percent
+Arrangement,On site,Current,11
+Arrangement,On site,Preferred,6
+Arrangement,Hybrid,Current,39
+Arrangement,Hybrid,Preferred,40
+Arrangement,Remote,Current,49
+Arrangement,Remote,Preferred,54
+Preference,Keep current arrangement,Preference,71
+Preference,Less time on site,Preference,19
+Preference,More time on site,Preference,10

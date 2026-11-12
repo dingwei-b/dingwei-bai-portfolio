@@ -1,14 +1,20 @@
+---
+layout: default
+title: Dingwei Bai
+permalink: /
+---
+
 # Dingwei Bai
 
 ### Data Visualization Portfolio
 
-[About Me](#about-me) | [What I Hope to Learn](#what-i-hope-to-learn) | [Portfolio](#portfolio)
+[About Me](#about-me) · [What I Hope to Learn](#what-i-hope-to-learn) · [Portfolio](#portfolio)
 
 ## About Me
 
 Hi, I’m Dingwei Bai. I’m a student interested in how data can help us understand the world and communicate ideas more clearly. Through this course, I hope to explore the connection between data, design, and storytelling.
 
-This website will document my learning throughout the semester. I’ll use it to share assignments, workshop exercises, and my final project, along with reflections on the choices I make and what I learn along the way.
+This portfolio documents my work in Telling Stories with Data. Each project includes the visualization, the choices behind its design, and reflections on what I learned through the process.
 
 ## What I Hope to Learn
 
@@ -18,22 +24,10 @@ I’m also interested in learning how to evaluate visualizations critically, rec
 
 ## Portfolio
 
-### Visualization Critiques
+### [Critique and redesign: Work arrangements](critique-by-design.html)
 
-Reviews of data visualizations, focusing on their clarity, design, and effectiveness.
+How do current work arrangements compare with what people prefer? I redesigned a figure from the Data Visualization Society's 2024 survey using paired bars and a shared percentage scale. The project documents the original critique, initial sketch, interviews and revisions, and final Tableau visualization.
 
-[Critique by Design](critique-by-design)
+[![Paired bars comparing current and preferred work arrangements, with a second panel showing preferences for time on site.](assets/makeover-monday/tableau-redesign.png)](critique-by-design.html)
 
-### Workshop Exercises
-
-Hands-on activities exploring visualization tools and techniques.
-
-[Data Visualization Examples](dataviz-examples)
-
-### Final Project
-
-A record of my final project, from the initial question and data exploration to the finished visualization.
-
-[Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three)
-
-*More work will be added throughout the semester.*
+[Read the project](critique-by-design.html) · [Explore the data](data/makeover-monday/chart-values.csv) · [Download the Tableau workbook](assets/makeover-monday/work-arrangements.twbx)
