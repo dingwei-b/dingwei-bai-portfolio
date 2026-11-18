@@ -1,0 +1,34 @@
+request_type_id,request_type_name,issue_category
+484,Potholes,Road surfaces
+405,Road,Road surfaces
+315,Paving Request,Road surfaces
+25554,Paving Concern/Problem,Road surfaces
+16331,Utility Cut - Other,Road surfaces
+500,Utility Cut - PWSA,Road surfaces
+422136,Concrete Slab Repair,Road surfaces
+459,Brick or Block Repair,Road surfaces
+492,Sinkhole,Road surfaces
+27530,Broken Sidewalk,Sidewalks
+5659,Blocked or Closed Sidewalks,Sidewalks
+394647,Sidewalk/Curb/ADA Ramp Maintenance,Sidewalks
+359,Sidewalk has Ice or Litter,Sidewalks
+487,Replace/Repair a Sign,Signs and signals
+339,"Traffic or Pedestrian Signal, Repair",Signs and signals
+829,Pedestrian Signal Maintenance,Signs and signals
+830,"Crosswalk and Street Markings, Maintenance",Signs and signals
+468,"Curb Paint, Maintenance",Signs and signals
+8715,Street Light - Repair,Street lighting
+317,Street Cleaning/Sweeping,Street cleaning
+474,Leaves/Street Cleaning,Street cleaning
+494,Snow/Ice removal,Snow and ice
+558,"Sidewalk, Lack of Snow/Ice Removal",Snow and ice
+26739,Street Obstruction/Closure,Street obstructions
+8522,Barricades,Street obstructions
+342,Tree Fallen Across Sidewalk,Street obstructions
+341,Tree Fallen Across Road,Street obstructions
+16048,"Catch Basin, Clogged",Drainage and covers
+16047,Collapsed Catch Basin,Drainage and covers
+16332,Manhole Cover,Drainage and covers
+526,"Manhole Covers, PWSA",Drainage and covers
+306151,Missing Grate,Drainage and covers
+542,Bike Lane Bollard,Bike lane bollards

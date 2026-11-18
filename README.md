@@ -24,6 +24,12 @@ I’m also interested in learning how to evaluate visualizations critically, rec
 
 ## Portfolio
 
+### [Final project, Part I: Streets around campus](final-project-part-one.html)
+
+What kinds of street maintenance issues get reported in the neighborhoods around CMU and Pitt? This proposal uses Pittsburgh's 2024 311 records to compare issue types, nearby neighborhoods, and monthly patterns. It includes the story outline, two Python storyboards, working data, and the plan for an interactive final story.
+
+[Read the proposal](final-project-part-one.html) · [Explore the data](data/final-project/311-campus-street-issues-2024.csv)
+
 ### [Critique and redesign: Work arrangements](critique-by-design.html)
 
 How do current work arrangements compare with what people prefer? I redesigned a figure from the Data Visualization Society's 2024 survey using paired bars and a shared percentage scale. The project documents the original critique, initial sketch, interviews and revisions, and final Tableau visualization.
